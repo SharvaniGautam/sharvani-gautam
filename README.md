@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sharvani Gautam</h1>
 <h3 align="center">AI Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/clips/future-midjourney-chat-gpt-F157XEVXfYL3ZVFxP5">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI0aXpnY3hweXd4MzBpOTI1b3k3eGczOGdpMGdmMThoN3YzbmM4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/M16EnP70Vd6abjtsJT/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvanigautam&label=Profile%20views&color=0e75b6&style=flat" alt="sharvanigautam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/createfused" target="blank"><img src="https://img.shields.io/twitter/follow/createfused?logo=twitter&style=for-the-badge" alt="createfused" /></a> </p>
