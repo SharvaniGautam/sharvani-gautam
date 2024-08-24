@@ -1,8 +1,8 @@
-(![aigf](https://github.com/user-attachments/assets/953e7678-09c8-4db2-b6c1-9f36db5b8216)
-
+(![aigf](https://github.com/user-attachments/assets/953e7678-09c8-4db2-b6c1-9f36db5b8
 <h1 align="center">Hi 👋, I'm Sharvani Gautam</h1>
 <h3 align="center">AI Enthusiast</h3>
-
+<img align="right" alt="coding" width="400" src="![aigf](https://github.com/user-attachments/assets/73db2ffb-dd01-42db-8672-518019930aec)
+"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvanigautam&label=Profile%20views&color=0e75b6&style=flat" alt="sharvanigautam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/createfused" target="blank"><img src="https://img.shields.io/twitter/follow/createfused?logo=twitter&style=for-the-badge" alt="createfused" /></a> </p>
