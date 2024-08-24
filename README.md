@@ -1,4 +1,5 @@
-![logo](
+![logo](![aigf](https://github.com/user-attachments/assets/953e7678-09c8-4db2-b6c1-9f36db5b8216)
+
 <h1 align="center">Hi 👋, I'm Sharvani Gautam</h1>
 <h3 align="center">AI Enthusiast</h3>
 
